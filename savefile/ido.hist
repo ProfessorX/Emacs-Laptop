@@ -1,0 +1,33 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/abrahamx91/.emacs.d/" . "personal/")
+ ("/home/abrahamx91/" . ".emacs.d/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/abrahamx91/.emacs.d/"
+ "/home/abrahamx91/.emacs.d/personal/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "prelude-modules.el"
+ "init.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/abrahamx91/.emacs.d/" (21498 12318 324087 100000) "themes/" "abbrev_defs" "prelude-modules.el" "personal/" "../" "core/" "vendor/" "utils/" "modules/" "prelude-modules.elc" ".git/" ".projectile" "auto-save-list/" "elpa/" "./" "sample/" "init.el" ".gitignore" "projectile-bookmarks.eld" "var/" "CONTRIBUTING.md" "README.md" "init.elc" "savefile/")
+
+ ("/home/abrahamx91/" (21498 11974 824066 556000) "Application/" "Profession/" ".dbus/" ".bash_logout" ".local/" ".profile" ".gnupg/" ".recently-used.xbel" "../" ".ssh/" ".icedove/" ".bashrc" ".kde/" ".gnome2_private/" ".ipython/" ".dmrc" "Development/" ".gnome/" ".pulse/" "./" ".pulse-cookie" ".pki/" ".config/" ".erc/" ".gconf/" ".face.icon" ".directory" ".mozilla/" ".Xauthority" ".bash_history" ".emacs.d/" ".bash_aliases" "Downloads/" ".gnome2/" ".xsession-errors" "Office/" ".cache/")
+
+ ("/home/abrahamx91/Downloads/" (21498 11804 384056 362000) "adt-bundle-linux-x86_64-20140702.zip" "../" "sogou_pinyin_linux_1.1.0.0037_amd64.deb" "VMware-Player-6.0.3-1895310.x86_64.bundle" "pycharm-professional-3.4.1.tar" "./" "get-pip.py" ".directory")
+
+ ("/home/abrahamx91/.emacs.d/personal/" (21498 10940 88004 670000) ".gitkeep" "../" "./" "init.el" "custom.el" "preload/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

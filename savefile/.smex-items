@@ -1,0 +1,19 @@
+
+;; ----- smex-history -----
+(
+ package-list-packages
+ package-install
+ package-refresh-contents
+ prelude-update
+ cd
+ 5x5
+ ack
+)
+
+;; ----- smex-data -----
+(
+ (prelude-update . 1)
+ (package-list-packages . 9)
+ (package-refresh-contents . 2)
+ (package-install . 1)
+)
