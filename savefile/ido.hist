@@ -2,31 +2,65 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/abrahamx91/Office/" . "20140824/")
+ ("/home/abrahamx91/Profession/Git/CIS612/" . "Final-Exam/")
+ ("/home/abrahamx91/Profession/Git/octopress/source/" . "_posts/")
+ ("/home/abrahamx91/Profession/Git/octopress/" . "source/")
+ ("/home/abrahamx91/Profession/Git/" . "CIS612/")
  ("/home/abrahamx91/.emacs.d/" . "personal/")
  ("/home/abrahamx91/" . ".emacs.d/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
- "/home/abrahamx91/.emacs.d/"
  "/home/abrahamx91/.emacs.d/personal/"
+ "/home/abrahamx91/Office/20140824/"
+ "/home/abrahamx91/Profession/Git/CIS612/Final-Exam/"
+ "/home/abrahamx91/Profession/Git/CIS612/"
+ "/home/abrahamx91/Profession/Git/octopress/source/_posts/"
+ "/home/abrahamx91/.emacs.d/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "prelude-modules.el"
+ "custom.el"
  "init.el"
+ "test.tex"
+ "Review-Notes.tex"
+ "InfoSecReport.tex"
+ "2014-05-15-learn-to-change-the-world.markdown"
+ "prelude-modules.el"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/abrahamx91/.emacs.d/" (21498 12318 324087 100000) "themes/" "abbrev_defs" "prelude-modules.el" "personal/" "../" "core/" "vendor/" "utils/" "modules/" "prelude-modules.elc" ".git/" ".projectile" "auto-save-list/" "elpa/" "./" "sample/" "init.el" ".gitignore" "projectile-bookmarks.eld" "var/" "CONTRIBUTING.md" "README.md" "init.elc" "savefile/")
+ ("/home/abrahamx91/.emacs.d/personal/" (21498 19105 820493 44000) ".gitkeep" "../" "./" "init.el" "custom.el" "preload/")
 
- ("/home/abrahamx91/" (21498 11974 824066 556000) "Application/" "Profession/" ".dbus/" ".bash_logout" ".local/" ".profile" ".gnupg/" ".recently-used.xbel" "../" ".ssh/" ".icedove/" ".bashrc" ".kde/" ".gnome2_private/" ".ipython/" ".dmrc" "Development/" ".gnome/" ".pulse/" "./" ".pulse-cookie" ".pki/" ".config/" ".erc/" ".gconf/" ".face.icon" ".directory" ".mozilla/" ".Xauthority" ".bash_history" ".emacs.d/" ".bash_aliases" "Downloads/" ".gnome2/" ".xsession-errors" "Office/" ".cache/")
+ ("/home/abrahamx91/.emacs.d/" (21498 18805 260475 69000) "themes/" "abbrev_defs" "prelude-modules.el" "personal/" "../" "core/" "vendor/" "utils/" "modules/" "prelude-modules.elc" ".git/" ".projectile" "auto-save-list/" "elpa/" "./" "sample/" "init.el" ".gitignore" "projectile-bookmarks.eld" "var/" "CONTRIBUTING.md" "README.md" "init.elc" "savefile/")
+
+ ("/home/abrahamx91/" (21498 18364 624448 715000) ".aspell.en.pws" "Application/" "Profession/" ".android/" ".dbus/" ".bash_logout" "matlab_crash_dump.27604-1" "workspace/" ".java/" ".local/" ".profile" ".gnupg/" ".PyCharm30/" ".recently-used.xbel" ".rbenv/" "../" ".ssh/" ".icedove/" ".bashrc" ".kde/" ".gnome2_private/" ".aspell.en.prepl" ".ipython/" ".matlab/" ".subversion/" ".gem/" ".dmrc" "Development/" ".gnome/" ".pulse/" "./" ".gitconfig" ".pulse-cookie" ".swt/" ".pki/" ".config/" ".erc/" ".gconf/" ".face.icon" ".directory" ".mozilla/" ".Xauthority" ".bash_history" ".eclipse/" ".emacs.d/" ".bash_aliases" "Downloads/" ".gnome2/" ".xsession-errors" "Office/" ".cache/")
+
+ ("/home/abrahamx91/Office/20140824/" (21498 19091 36492 160000) "../" "auto/" "./" "test.tex")
+
+ ("/home/abrahamx91/Office/" (21498 18969 300484 880000) "20140824/" "../" "sources.list" "./")
+
+ ("/home/abrahamx91/Profession/Git/CIS612/Final-Exam/" (21498 18372 836449 206000) "References/" "Review-Notes.pdf" "../" "Codes/" "auto/" "Review-Notes.aux" "./" "Notes-by-Zeyar.md" "Review-Notes.synctex.gz" "Review-Notes.tex" "Figures/")
+
+ ("/home/abrahamx91/Profession/Git/CIS612/" (21498 18627 796464 455000) "Homework/" "REfer-1.txt" "IEEEexample.bib" "InfoSecReport.blg" "IEEEabrv.bib" "Reference-Old.bib" "Figure/" "TODO.md" "InfoSecReport.tex" ".gitattributes" "RSA.txt" "Presentation/" "InfoSecReport.pdf" "../" "Lecture-Notes/" "Codes/" "ElGamal.doc" "IEEEtran_bst_HOWTO.pdf" "InfoSecReport.dvi" ".~lock.ElGamal.doc#" "My Reference in Bib (final).docx" "Report-Temp.blg" "Report-Temp.bbl" "IEEEtranBST1.tar.gz" "Report-Temp.aux" "IEEEtranS.bst" "Groups_and_Topics.docx" "Report-Temp.out" "test.m" "InfoSecReport.synctex.gz" "Report-Temp.tex" "Ref/" "auto/" "Report-Temp.pdf" ".git/" "InfoSecReport.tex.sav" "test.cpp" "IEEE-Template/" "InfoSecReport.out" "./" "RSA.cpp" "InfoSecReport.rel" "Reference.bib" "InfoSecReport.log" "222.mp4" "Information Security Project Part RSA(final draft).docx" ".gitignore" "InfoSecReport-Old.tex" "Final-Exam/" "README" "REfer.txt" "IEEEtran.cls" "README.md" "IEEE.java" "prv_InfoSecReport.fmt" "333.mp4" "InfoSecReport.aux" "InfoSecReport.bbl" "111.mp4" "Report-Temp.synctex.gz" "IEEEfull.bib" "IEEEtran.bst")
+
+ ("/home/abrahamx91/Profession/Git/CIS612/Figure/" (21498 18372 828449 206000) "Asymmetric.png" "../" "Symmetric.png" "./")
+
+ ("/home/abrahamx91/Profession/Git/" (21498 18149 680435 860000) "Emacs-Laptop/" "../" "octopress/" "./" "CIS612/" "Electronic-Books/")
+
+ ("/home/abrahamx91/Profession/Git/octopress/source/_posts/" (21498 13451 480154 871000) "2014-04-14-chinese-test.markdown" "2014-04-20-weekly-update.markdown" "2014-05-12-right-things.markdown" "../" "2014-04-14-no-title.markdown" "2014-05-13-constant-review.markdown" "2014-05-15-learn-to-change-the-world.markdown" "2014-04-22-online-storage.markdown" "./" "2014-05-10-end-of-semester.markdown" "2014-04-21-lab4.markdown" "2014-04-14-code-snippet-test.markdown")
+
+ ("/home/abrahamx91/Profession/Git/octopress/source/" (21498 17629 780404 766000) "javascripts/" "_posts/" "stylesheets/" "images/" "_includes/" "index.html" "../" "robots.txt" "CNAME" "./" "_layouts/" "downloads/" "atom.xml" "blog/" "favicon.png" "assets/")
+
+ ("/home/abrahamx91/Profession/Git/octopress/" (21498 17631 892404 892000) "README.md.save" "_deploy/" "config.ru" "Rakefile" ".themes/" ".gitattributes" "../" "sass/" ".pygments-cache/" "public/" ".powrc" "plugins/" "Gemfile" "Gemfile.lock" ".git/" "./" ".travis.yml" "CHANGELOG.markdown" "_config.yml" "config.rb" ".gitignore" "source/" ".editorconfig" "README.md" ".slugignore" "README.markdown" ".sass-cache/")
+
+ ("/home/abrahamx91/Profession/Git/Emacs-Laptop/" (21498 16294 484324 905000) "themes/" "abbrev_defs" "prelude-modules.el" "personal/" "../" "core/" "vendor/" "utils/" "modules/" "prelude-modules.elc" ".git/" "auto-save-list/" "elpa/" "./" "sample/" "init.el" "projectile-bookmarks.eld" "var/" "CONTRIBUTING.md" "README.md" "LICENSE" "init.elc" "savefile/")
 
  ("/home/abrahamx91/Downloads/" (21498 11804 384056 362000) "adt-bundle-linux-x86_64-20140702.zip" "../" "sogou_pinyin_linux_1.1.0.0037_amd64.deb" "VMware-Player-6.0.3-1895310.x86_64.bundle" "pycharm-professional-3.4.1.tar" "./" "get-pip.py" ".directory")
-
- ("/home/abrahamx91/.emacs.d/personal/" (21498 10940 88004 670000) ".gitkeep" "../" "./" "init.el" "custom.el" "preload/")
 )
 
 ;; ----- ido-unc-hosts-cache -----

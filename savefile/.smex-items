@@ -1,13 +1,13 @@
 
 ;; ----- smex-history -----
 (
+ shell
+ ispell
+ flyspell-word
  package-list-packages
  package-install
  package-refresh-contents
  prelude-update
- cd
- 5x5
- ack
 )
 
 ;; ----- smex-data -----
@@ -16,4 +16,7 @@
  (package-list-packages . 9)
  (package-refresh-contents . 2)
  (package-install . 1)
+ (ispell . 2)
+ (flyspell-word . 1)
+ (shell . 1)
 )

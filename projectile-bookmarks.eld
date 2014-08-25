@@ -1,1 +1,1 @@
-("~/.emacs.d/")
+("~/.emacs.d/" "~/Profession/Git/goagent/" "~/Profession/Git/Electronic-Books/" "~/Profession/Git/octopress/" "~/Profession/Git/CIS612/")
