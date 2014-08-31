@@ -1,1 +1,1 @@
-("~/.emacs.d/" "~/Profession/Git/goagent/" "~/Profession/Git/Electronic-Books/" "~/Profession/Git/octopress/" "~/Profession/Git/CIS612/")
+("~/.emacs.d/" "~/Profession/Git/octopress/" "~/Profession/Git/CIS603/" "~/Profession/Git/Org-Mode/" "~/Profession/Git/Electronic-Books/" "~/Profession/Git/Emacs-Laptop/" "~/Profession/Git/goagent/" "~/Profession/Git/CIS612/")

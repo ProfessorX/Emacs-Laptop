@@ -2,43 +2,97 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/abrahamx91/Profession/Git/CIS603/" . "Reference/")
+ ("/home/abrahamx91/Profession/Git/Org-Mode/" . "2014/")
+ ("/home/abrahamx91/Profession/Git/Electronic-Books/Life/" . "CV/")
+ ("/home/abrahamx91/Profession/Git/Electronic-Books/" . "Life/")
+ ("/home/abrahamx91/Profession/" . "Git/")
+ ("/etc/" . "modprobe.d/")
+ ("/" . "etc/")
  ("/home/abrahamx91/Office/" . "20140824/")
  ("/home/abrahamx91/Profession/Git/CIS612/" . "Final-Exam/")
  ("/home/abrahamx91/Profession/Git/octopress/source/" . "_posts/")
  ("/home/abrahamx91/Profession/Git/octopress/" . "source/")
- ("/home/abrahamx91/Profession/Git/" . "CIS612/")
+ ("/home/abrahamx91/Profession/Git/" . "octopress/")
  ("/home/abrahamx91/.emacs.d/" . "personal/")
- ("/home/abrahamx91/" . ".emacs.d/")
+ ("/home/abrahamx91/" . "Profession/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
+ "/home/abrahamx91/Profession/Git/CIS603/Reference/"
+ "/home/abrahamx91/Profession/Git/octopress/source/_posts/"
+ "/home/abrahamx91/Profession/Git/CIS603/Lecture-Notes/"
+ "/home/abrahamx91/Profession/Git/Org-Mode/2014/"
+ "/home/abrahamx91/Profession/Git/Electronic-Books/Life/CV/"
+ "/home/abrahamx91/Profession/Git/Electronic-Books/Life/"
+ "/home/abrahamx91/Profession/Git/Emacs-Laptop/"
  "/home/abrahamx91/.emacs.d/personal/"
  "/home/abrahamx91/Office/20140824/"
  "/home/abrahamx91/Profession/Git/CIS612/Final-Exam/"
  "/home/abrahamx91/Profession/Git/CIS612/"
- "/home/abrahamx91/Profession/Git/octopress/source/_posts/"
  "/home/abrahamx91/.emacs.d/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "custom.el"
- "init.el"
- "test.tex"
- "Review-Notes.tex"
- "InfoSecReport.tex"
- "2014-05-15-learn-to-change-the-world.markdown"
- "prelude-modules.el"
+ "Sep.m"
+ "2014-08-31-never-say-never.markdown"
+ "test.md"
+ "Sep.org"
+ "2014-04-14-code-snippet-test.markdown"
+ "2014-04-14-chinese-test.markdown"
+ "Feb.org"
+ "cv_4.tex"
+ "cv_9.tex"
+ "cv_9.pdf"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/home/abrahamx91/Profession/Git/CIS603/Reference/" (21506 62156 64001 977000) "../" "./")
+
+ ("/home/abrahamx91/Profession/Git/CIS603/" (21506 62156 64001 977000) "Project/" "../" "Lecture-Notes/" ".git/" "./" "Labs/" "Reference/" "LICENSE")
+
+ ("/home/abrahamx91/Profession/Git/CIS603/Lecture-Notes/" (21506 62035 380059 173000) "Sep.org" "../" "./")
+
+ ("/home/abrahamx91/Profession/Git/octopress/source/_posts/" (21506 23553 502660 116000) "2014-04-14-chinese-test.markdown" "2014-04-20-weekly-update.markdown" "2014-05-12-right-things.markdown" "../" "2014-04-14-no-title.markdown" "2014-05-13-constant-review.markdown" "2014-05-15-learn-to-change-the-world.markdown" "2014-04-22-online-storage.markdown" "./" "2014-05-10-end-of-semester.markdown" "2014-04-21-lab4.markdown" "2014-04-14-code-snippet-test.markdown" "2014-08-31-never-say-never.markdown")
+
+ ("/home/abrahamx91/Profession/Git/octopress/sass/" (21498 26364 502205 468000) "_base.scss" "../" "custom/" "plugins/" "screen.scss" "./" "_partials.scss" "partials/" "base/")
+
+ ("/home/abrahamx91/Profession/Git/" (21506 61507 700027 613000) "goagent/" "KisspberryPi/" "Emacs-Laptop/" "../" "Python-Algorithms/" "CIS603/" "octopress/" "Java-Essential-Training/" "./" "CIS508/" "CIS612/" "MATLAB-Tutorials/" "Org-Mode/" "Electronic-Books/")
+
+ ("/home/abrahamx91/Profession/Git/octopress/source/" (21498 26660 374223 163000) "javascripts/" "_posts/" "stylesheets/" "images/" "_includes/" "index.html" "../" "robots.txt" "CNAME" "./" "_layouts/" "downloads/" "atom.xml" "blog/" "favicon.png" "assets/")
+
+ ("/home/abrahamx91/Profession/Git/Org-Mode/2014/" (21498 30509 760176 120000) "Mar.org" "Jan.ics" "../" "Jan.org" "Feb.org" "Jan.org_archive" "Mar.html" "./" "Feb.html")
+
+ ("/home/abrahamx91/Profession/Git/Org-Mode/" (21498 30509 764176 120000) "../" "Toy.org" "2014/" "Toy.org_archive" ".git/" "./" "org-complete.pdf" "Toy.html" "README.md" "LICENSE")
+
+ ("/home/abrahamx91/Profession/Git/octopress/" (21498 26379 34206 337000) "README.md.save" "_deploy/" "config.ru" "Rakefile" ".themes/" ".gitattributes" "../" "sass/" ".pygments-cache/" "public/" ".powrc" "plugins/" "Gemfile" "Gemfile.lock" ".git/" "./" ".travis.yml" "CHANGELOG.markdown" "_config.yml" "config.rb" ".gitignore" "source/" ".editorconfig" "README.md" ".slugignore" "README.markdown" ".sass-cache/")
+
+ ("/home/abrahamx91/Profession/Git/Electronic-Books/Life/CV/" (21506 19602 126714 420000) "cv_4.zip" "../" "cv_4.tex" "./" "resume.cls")
+
+ ("/home/abrahamx91/Profession/Git/Electronic-Books/Life/" (21506 19586 150713 464000) "cv_9.out" "../" "cv_9.aux" "missfont.log" "auto/" "cv_9.pdf" "./" "cv_9.synctex.gz" "cv_9.log" "cv_9.tex" "CV/")
+
+ ("/home/abrahamx91/Profession/Git/Electronic-Books/" (21506 19114 130685 234000) "News-and-Magazines/" "../" "ReadMe.txt" "Manual/" "Masdar/" "E-Ink/" ".git/" "Fontin-Bold.ttf" "./" "Arts/" "RAR/" "Kobo/" "Misc/" "Life/" "Fontin-Italic.ttf" "README.md" "Fontin-Regular.ttf" "LICENSE" "Science/" "Fontin-SmallCaps.ttf")
+
+ ("/home/abrahamx91/" (21506 18993 726678 33000) ".aspell.en.pws" "Application/" "Profession/" ".android/" ".dbus/" ".bash_logout" ".aria2/" "matlab_crash_dump.27604-1" "workspace/" ".java/" ".local/" ".profile" ".gnupg/" ".PyCharm30/" ".rbenv/" "../" ".thumbnails/" "Calibre Library/" ".ssh/" ".icedove/" ".bashrc" ".recently-used" ".kde/" ".steampid" ".selected_editor" ".gnome2_private/" ".macromedia/" ".steampath" ".texmf-var/" ".aspell.en.prepl" ".ipython/" ".adobe/" ".matlab/" ".subversion/" "Dev-MasdarWireless/" ".gem/" ".steam/" ".gstreamer-0.10/" ".dmrc" "PycharmProjects/" "Development/" ".gnome/" ".pulse/" "./" ".gitconfig" ".pulse-cookie" ".swt/" ".pki/" ".gksu.lock" "Pictures/" ".python-eggs/" ".config/" ".erc/" ".vmware/" ".gconf/" ".face.icon" ".directory" ".mozilla/" ".Xauthority" ".bash_history" ".eclipse/" ".emacs.d/" ".bash_aliases" "Downloads/" ".gnome2/" ".xsession-errors" "Office/" ".cache/" "Desktop/")
+
+ ("/home/abrahamx91/Profession/Git/Emacs-Laptop/" (21499 45683 339531 394000) "ac-comphist.dat" "themes/" "session.10c5d36269000140897041000000021260025" "abbrev_defs" "prelude-modules.el" "personal/" "../" "session.10c5d36269000140891453300000015300025" "core/" "session.10c5d36269000140891056800000015950073" "vendor/" "utils/" "modules/" "prelude-modules.elc" ".git/" "auto-save-list/" "elpa/" "./" "sample/" "init.el" "projectile-bookmarks.eld" "session.10c5d36269000140892866900000015300064" "var/" "CONTRIBUTING.md" "README.md" "LICENSE" "init.elc" "savefile/" "session.10c5d36269000140897434600000021980031")
+
+ ("/home/abrahamx91/Profession/Git/goagent/" (21499 15645 197857 559000) "server/" "../" "local/" ".git/" "./" ".gitignore" "README.md")
+
+ ("/etc/modprobe.d/" (21498 21473 917912 973000) "dkms.conf" "../" "fbdev-blacklist.conf" "radeon-kms.conf" "vmware-fuse.conf" "./" "modesetting.conf")
+
+ ("/etc/" (21499 19747 845980 251000) "motd" "blkid.tab.old" "console-setup/" "lintianrc" "esound/" "w3m/" "papersize" "rc3.d/" "calendar/" "popularity-contest.conf" "sysctl.d/" "pm/" "networks" "exim4/" "mysql/" "openmpi/" "ld.so.conf" "bash_completion" "usb_modeswitch.conf" "acpi/" "init.d/" "grub.d/" "shadow-" "locale.alias" "debconf.conf" "locale.gen" "gshadow-" "blkid.tab" "nsswitch.conf" "ConsoleKit/" "ODBCDataSources/" "xdg/" "init/" "kde4/" "iceweasel/" "rc.local" "staff-group-for-usr-local" "discover-modprobe.conf" "libnl-3/" "listaller/" "logcheck/" "gnome-vfs-mime-magic" "debian_version" "polkit-1/" "odbc.ini" "anacrontab" "odbcinst.ini" "openal/" "groff/" "resolv.conf" "timezone" ".java/" "ca-certificates.conf" "inittab" "opensc/" "cupshelpers/" "logrotate.conf" "perl/" "wpa_supplicant/" "ppp/" "rc4.d/" "python2.6/" "rmt" "cron.weekly/" "binfmt.d/" "sv/" "drirc" "matplotlibrc" "terminfo/" "reportbug.conf" "vmware-installer/" "python3/" "libreoffice/" "newt/" "modprobe.d/" "ksysguarddrc" "machine-id" "rpc" "dkms/" "kernel-img.conf" "icedove/" "initramfs-tools/" "netscsid.conf" "foomatic/" "subgid-" "systemd/" ".pwd.lock" "shadow" "modules-load.d/" "vdpau_wrapper.cfg" "mailname" "os-release" "bash.bashrc" "adjtime" "bonobo-activation/" "fuse.conf" "sysctl.conf" "wildmidi/" "ssl/" "at-spi2/" "subgid" "insserv.conf.d/" "vmware-vix/" "passwd-" "gitweb.conf" "cron.monthly/" "OpenCL/" "rc1.d/" "bash_completion.d/" "emacs24/" "ldap/" "xml/" "alternatives/" "festival.scm" "tmpfiles.d/" "cron.hourly/" "ucf.conf" "inputrc" "fonts/" "pnm2ppa.conf" "ImageMagick/" "rc6.d/" "subuid" "modules" "localtime" "hosts.deny" "rc2.d/" "PackageKit/" "dpkg/" "services" "updatedb.conf" "hosts.allow" "pam.conf" "insserv/" "tex4ht/" "vmware/" "pam.d/" "cron.daily/" "security/" "cron.d/" "gtk-3.0/" "wgetrc" "ufw/" "network/" "manpath.config" "fstab" "adduser.conf" "sgml/" "chromium/" "rc0.d/" "wodim.conf" "python2.7/" "request-key.d/" "resolvconf/" "group-" "deluser.conf" "python3.4/" "ld.so.conf.d/" "issue.net" "timidity/" "profile.d/" "emacs/" "speech-dispatcher/" "gshadow" "ssh/" "dictionaries-common/" "libpaper.d/" "gtk-2.0/" "nanorc" "mke2fs.conf" "magic" "sensors.d/" "ifplugd/" "cups/" "sudoers" "mailcap" "environment" "geoclue/" "usb_modeswitch.d/" "X11/" "udev/" "login.defs" "issue" "java-6-openjdk/" "hostname" "mtab" "idmapd.conf" "passwd" "subuid-" "dhcp/" "menu-methods/" "apparmor.d/" "default/" "eclipse.ini" "dbus-1/" "lighttpd/" "akonadi/" "Muttrc.d/" "mime.types" "Muttrc" "magic.mime" "sane.d/" "email-addresses" "mailcap.order" "gss/" "ca-certificates.conf.dpkg-old" "bindresvport.blacklist" "gssapi_mech.conf" "pulse/" "gconf/" "kbd/" "logrotate.d/" "ts.conf" "insserv.conf" "shells" "texmf/" "firebird/" "aliases" "hdparm.conf" "htdig/" "avahi/" "python/" "apache2/" "pcmcia/" "samba/" "group" "skel/" "colord.conf" "gimp/" "rcS.d/" "appstream.conf" "hp/" "ca-certificates/" "libao.conf" "libaudit.conf" "openvpn/" "gai.conf" "sensors3.conf" "gnome-vfs-2.0/" "udisks2/" "kernel/" "sound/" "ld.so.cache" "iproute2/" "bluetooth/" "apm/" "LatexMk" "icedtea-web/" "crontab" "java-7-openjdk/" "rc5.d/" "selinux/" "apt/" "vim/" "opt/" "UPower/" "host.conf" "chktexrc" "vpnc/" "at.deny" "netconfig" "thnuclnt/" "hosts" "NetworkManager/" "protocols" "rsyslog.d/" "ghostscript/" "profile" "service/" "rsyslog.conf" "discover.conf.d/" "mail.rc" "fstab.d/" "sudoers.d/" "snmp/" "securetty" "chatscripts/" "../" "./")
+
+ ("/home/" (21497 20978 71588 522000) "../" "lost+found/" "abrahamx91/" "./")
+
+ ("/home/abrahamx91/Profession/" (21497 65005 578594 549000) "Git/" "../" "./")
+
  ("/home/abrahamx91/.emacs.d/personal/" (21498 19105 820493 44000) ".gitkeep" "../" "./" "init.el" "custom.el" "preload/")
 
  ("/home/abrahamx91/.emacs.d/" (21498 18805 260475 69000) "themes/" "abbrev_defs" "prelude-modules.el" "personal/" "../" "core/" "vendor/" "utils/" "modules/" "prelude-modules.elc" ".git/" ".projectile" "auto-save-list/" "elpa/" "./" "sample/" "init.el" ".gitignore" "projectile-bookmarks.eld" "var/" "CONTRIBUTING.md" "README.md" "init.elc" "savefile/")
-
- ("/home/abrahamx91/" (21498 18364 624448 715000) ".aspell.en.pws" "Application/" "Profession/" ".android/" ".dbus/" ".bash_logout" "matlab_crash_dump.27604-1" "workspace/" ".java/" ".local/" ".profile" ".gnupg/" ".PyCharm30/" ".recently-used.xbel" ".rbenv/" "../" ".ssh/" ".icedove/" ".bashrc" ".kde/" ".gnome2_private/" ".aspell.en.prepl" ".ipython/" ".matlab/" ".subversion/" ".gem/" ".dmrc" "Development/" ".gnome/" ".pulse/" "./" ".gitconfig" ".pulse-cookie" ".swt/" ".pki/" ".config/" ".erc/" ".gconf/" ".face.icon" ".directory" ".mozilla/" ".Xauthority" ".bash_history" ".eclipse/" ".emacs.d/" ".bash_aliases" "Downloads/" ".gnome2/" ".xsession-errors" "Office/" ".cache/")
 
  ("/home/abrahamx91/Office/20140824/" (21498 19091 36492 160000) "../" "auto/" "./" "test.tex")
 
@@ -49,16 +103,6 @@
  ("/home/abrahamx91/Profession/Git/CIS612/" (21498 18627 796464 455000) "Homework/" "REfer-1.txt" "IEEEexample.bib" "InfoSecReport.blg" "IEEEabrv.bib" "Reference-Old.bib" "Figure/" "TODO.md" "InfoSecReport.tex" ".gitattributes" "RSA.txt" "Presentation/" "InfoSecReport.pdf" "../" "Lecture-Notes/" "Codes/" "ElGamal.doc" "IEEEtran_bst_HOWTO.pdf" "InfoSecReport.dvi" ".~lock.ElGamal.doc#" "My Reference in Bib (final).docx" "Report-Temp.blg" "Report-Temp.bbl" "IEEEtranBST1.tar.gz" "Report-Temp.aux" "IEEEtranS.bst" "Groups_and_Topics.docx" "Report-Temp.out" "test.m" "InfoSecReport.synctex.gz" "Report-Temp.tex" "Ref/" "auto/" "Report-Temp.pdf" ".git/" "InfoSecReport.tex.sav" "test.cpp" "IEEE-Template/" "InfoSecReport.out" "./" "RSA.cpp" "InfoSecReport.rel" "Reference.bib" "InfoSecReport.log" "222.mp4" "Information Security Project Part RSA(final draft).docx" ".gitignore" "InfoSecReport-Old.tex" "Final-Exam/" "README" "REfer.txt" "IEEEtran.cls" "README.md" "IEEE.java" "prv_InfoSecReport.fmt" "333.mp4" "InfoSecReport.aux" "InfoSecReport.bbl" "111.mp4" "Report-Temp.synctex.gz" "IEEEfull.bib" "IEEEtran.bst")
 
  ("/home/abrahamx91/Profession/Git/CIS612/Figure/" (21498 18372 828449 206000) "Asymmetric.png" "../" "Symmetric.png" "./")
-
- ("/home/abrahamx91/Profession/Git/" (21498 18149 680435 860000) "Emacs-Laptop/" "../" "octopress/" "./" "CIS612/" "Electronic-Books/")
-
- ("/home/abrahamx91/Profession/Git/octopress/source/_posts/" (21498 13451 480154 871000) "2014-04-14-chinese-test.markdown" "2014-04-20-weekly-update.markdown" "2014-05-12-right-things.markdown" "../" "2014-04-14-no-title.markdown" "2014-05-13-constant-review.markdown" "2014-05-15-learn-to-change-the-world.markdown" "2014-04-22-online-storage.markdown" "./" "2014-05-10-end-of-semester.markdown" "2014-04-21-lab4.markdown" "2014-04-14-code-snippet-test.markdown")
-
- ("/home/abrahamx91/Profession/Git/octopress/source/" (21498 17629 780404 766000) "javascripts/" "_posts/" "stylesheets/" "images/" "_includes/" "index.html" "../" "robots.txt" "CNAME" "./" "_layouts/" "downloads/" "atom.xml" "blog/" "favicon.png" "assets/")
-
- ("/home/abrahamx91/Profession/Git/octopress/" (21498 17631 892404 892000) "README.md.save" "_deploy/" "config.ru" "Rakefile" ".themes/" ".gitattributes" "../" "sass/" ".pygments-cache/" "public/" ".powrc" "plugins/" "Gemfile" "Gemfile.lock" ".git/" "./" ".travis.yml" "CHANGELOG.markdown" "_config.yml" "config.rb" ".gitignore" "source/" ".editorconfig" "README.md" ".slugignore" "README.markdown" ".sass-cache/")
-
- ("/home/abrahamx91/Profession/Git/Emacs-Laptop/" (21498 16294 484324 905000) "themes/" "abbrev_defs" "prelude-modules.el" "personal/" "../" "core/" "vendor/" "utils/" "modules/" "prelude-modules.elc" ".git/" "auto-save-list/" "elpa/" "./" "sample/" "init.el" "projectile-bookmarks.eld" "var/" "CONTRIBUTING.md" "README.md" "LICENSE" "init.elc" "savefile/")
 
  ("/home/abrahamx91/Downloads/" (21498 11804 384056 362000) "adt-bundle-linux-x86_64-20140702.zip" "../" "sogou_pinyin_linux_1.1.0.0037_amd64.deb" "VMware-Player-6.0.3-1895310.x86_64.bundle" "pycharm-professional-3.4.1.tar" "./" "get-pip.py" ".directory")
 )
