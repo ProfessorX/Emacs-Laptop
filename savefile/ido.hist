@@ -2,7 +2,7 @@
 
 ;; ----- ido-last-directory-list -----
 (
- ("/home/abrahamx91/Profession/Git/CIS603/" . "Reference/")
+ ("/home/abrahamx91/Profession/Git/CIS603/" . "Lecture-Notes/")
  ("/home/abrahamx91/Profession/Git/Org-Mode/" . "2014/")
  ("/home/abrahamx91/Profession/Git/Electronic-Books/Life/" . "CV/")
  ("/home/abrahamx91/Profession/Git/Electronic-Books/" . "Life/")
@@ -13,19 +13,19 @@
  ("/home/abrahamx91/Profession/Git/CIS612/" . "Final-Exam/")
  ("/home/abrahamx91/Profession/Git/octopress/source/" . "_posts/")
  ("/home/abrahamx91/Profession/Git/octopress/" . "source/")
- ("/home/abrahamx91/Profession/Git/" . "octopress/")
+ ("/home/abrahamx91/Profession/Git/" . "Electronic-Books/")
  ("/home/abrahamx91/.emacs.d/" . "personal/")
  ("/home/abrahamx91/" . "Profession/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
+ "/home/abrahamx91/Profession/Git/Electronic-Books/Life/"
+ "/home/abrahamx91/Profession/Git/Electronic-Books/Life/CV/"
+ "/home/abrahamx91/Profession/Git/CIS603/Lecture-Notes/"
  "/home/abrahamx91/Profession/Git/CIS603/Reference/"
  "/home/abrahamx91/Profession/Git/octopress/source/_posts/"
- "/home/abrahamx91/Profession/Git/CIS603/Lecture-Notes/"
  "/home/abrahamx91/Profession/Git/Org-Mode/2014/"
- "/home/abrahamx91/Profession/Git/Electronic-Books/Life/CV/"
- "/home/abrahamx91/Profession/Git/Electronic-Books/Life/"
  "/home/abrahamx91/Profession/Git/Emacs-Laptop/"
  "/home/abrahamx91/.emacs.d/personal/"
  "/home/abrahamx91/Office/20140824/"
@@ -36,21 +36,27 @@
 
 ;; ----- ido-work-file-list -----
 (
+ "cv_9.tex"
+ "cv_4.tex"
+ "Sep.org"
  "Sep.m"
  "2014-08-31-never-say-never.markdown"
  "test.md"
- "Sep.org"
  "2014-04-14-code-snippet-test.markdown"
  "2014-04-14-chinese-test.markdown"
  "Feb.org"
- "cv_4.tex"
- "cv_9.tex"
  "cv_9.pdf"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/abrahamx91/Profession/Git/CIS603/Reference/" (21506 62156 64001 977000) "../" "./")
+ ("/home/abrahamx91/Profession/Git/Electronic-Books/Life/CV/" (21508 18478 238847 82000) "cv_4.zip" "../" "cv_4.log" "cv_4.tex" "./" "cv_4.pdf" "cv_4.aux" "cv_4.synctex.gz" "cv_4.dvi" "resume.cls")
+
+ ("/home/abrahamx91/Profession/Git/CIS603/Labs/" (21506 61640 796035 574000) "../" "./")
+
+ ("/home/abrahamx91/Profession/Git/CIS603/Reference/" (21506 63031 220018 16000) "Sep.m" "../" "./")
+
+ ("/home/abrahamx91/Profession/Git/Emacs-Laptop/" (21506 62769 160002 343000) "ac-comphist.dat" "themes/" "session.10c5d36269000140897041000000021260025" "abbrev_defs" "prelude-modules.el" "personal/" "../" "session.10c5d36269000140891453300000015300025" "core/" "session.10c5d36269000140891056800000015950073" "vendor/" "utils/" "modules/" "prelude-modules.elc" ".git/" "auto-save-list/" "elpa/" "./" "sample/" "session.10c5d36269000140900279300000022290048" "session.10c5d36269000140943652400000022180049" "init.el" "projectile-bookmarks.eld" "session.10c5d36269000140892866900000015300064" "var/" "CONTRIBUTING.md" "README.md" "LICENSE" "init.elc" "savefile/" "session.10c5d36269000140897434600000021980031")
 
  ("/home/abrahamx91/Profession/Git/CIS603/" (21506 62156 64001 977000) "Project/" "../" "Lecture-Notes/" ".git/" "./" "Labs/" "Reference/" "LICENSE")
 
@@ -70,15 +76,11 @@
 
  ("/home/abrahamx91/Profession/Git/octopress/" (21498 26379 34206 337000) "README.md.save" "_deploy/" "config.ru" "Rakefile" ".themes/" ".gitattributes" "../" "sass/" ".pygments-cache/" "public/" ".powrc" "plugins/" "Gemfile" "Gemfile.lock" ".git/" "./" ".travis.yml" "CHANGELOG.markdown" "_config.yml" "config.rb" ".gitignore" "source/" ".editorconfig" "README.md" ".slugignore" "README.markdown" ".sass-cache/")
 
- ("/home/abrahamx91/Profession/Git/Electronic-Books/Life/CV/" (21506 19602 126714 420000) "cv_4.zip" "../" "cv_4.tex" "./" "resume.cls")
-
  ("/home/abrahamx91/Profession/Git/Electronic-Books/Life/" (21506 19586 150713 464000) "cv_9.out" "../" "cv_9.aux" "missfont.log" "auto/" "cv_9.pdf" "./" "cv_9.synctex.gz" "cv_9.log" "cv_9.tex" "CV/")
 
  ("/home/abrahamx91/Profession/Git/Electronic-Books/" (21506 19114 130685 234000) "News-and-Magazines/" "../" "ReadMe.txt" "Manual/" "Masdar/" "E-Ink/" ".git/" "Fontin-Bold.ttf" "./" "Arts/" "RAR/" "Kobo/" "Misc/" "Life/" "Fontin-Italic.ttf" "README.md" "Fontin-Regular.ttf" "LICENSE" "Science/" "Fontin-SmallCaps.ttf")
 
  ("/home/abrahamx91/" (21506 18993 726678 33000) ".aspell.en.pws" "Application/" "Profession/" ".android/" ".dbus/" ".bash_logout" ".aria2/" "matlab_crash_dump.27604-1" "workspace/" ".java/" ".local/" ".profile" ".gnupg/" ".PyCharm30/" ".rbenv/" "../" ".thumbnails/" "Calibre Library/" ".ssh/" ".icedove/" ".bashrc" ".recently-used" ".kde/" ".steampid" ".selected_editor" ".gnome2_private/" ".macromedia/" ".steampath" ".texmf-var/" ".aspell.en.prepl" ".ipython/" ".adobe/" ".matlab/" ".subversion/" "Dev-MasdarWireless/" ".gem/" ".steam/" ".gstreamer-0.10/" ".dmrc" "PycharmProjects/" "Development/" ".gnome/" ".pulse/" "./" ".gitconfig" ".pulse-cookie" ".swt/" ".pki/" ".gksu.lock" "Pictures/" ".python-eggs/" ".config/" ".erc/" ".vmware/" ".gconf/" ".face.icon" ".directory" ".mozilla/" ".Xauthority" ".bash_history" ".eclipse/" ".emacs.d/" ".bash_aliases" "Downloads/" ".gnome2/" ".xsession-errors" "Office/" ".cache/" "Desktop/")
-
- ("/home/abrahamx91/Profession/Git/Emacs-Laptop/" (21499 45683 339531 394000) "ac-comphist.dat" "themes/" "session.10c5d36269000140897041000000021260025" "abbrev_defs" "prelude-modules.el" "personal/" "../" "session.10c5d36269000140891453300000015300025" "core/" "session.10c5d36269000140891056800000015950073" "vendor/" "utils/" "modules/" "prelude-modules.elc" ".git/" "auto-save-list/" "elpa/" "./" "sample/" "init.el" "projectile-bookmarks.eld" "session.10c5d36269000140892866900000015300064" "var/" "CONTRIBUTING.md" "README.md" "LICENSE" "init.elc" "savefile/" "session.10c5d36269000140897434600000021980031")
 
  ("/home/abrahamx91/Profession/Git/goagent/" (21499 15645 197857 559000) "server/" "../" "local/" ".git/" "./" ".gitignore" "README.md")
 

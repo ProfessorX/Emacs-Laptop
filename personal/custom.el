@@ -44,7 +44,7 @@
  '(nxml-slash-auto-complete-flag t)
  '(org-agenda-files (quote ("~/Professional/Git/Org-Mode/2014/Feb.org" "~/Professional/Git/Org-Mode/2014/Jan.org" "~/Professional/Git/Kinect-Project/Progress.org")))
  '(org-enforce-todo-dependencies t)
- '(org-log-done (quote note))
+ '(org-log-done (quote note) t)
  '(org-log-into-drawer t)
  '(org-log-redeadline (quote note))
  '(org-log-refile (quote note))
