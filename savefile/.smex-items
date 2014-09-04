@@ -2,8 +2,8 @@
 ;; ----- smex-history -----
 (
  ispell
- save-buffer
  package-list-packages
+ save-buffer
  shell
  flyspell-word
  package-install
@@ -13,10 +13,10 @@
 ;; ----- smex-data -----
 (
  (prelude-update . 1)
- (package-list-packages . 12)
+ (package-list-packages . 13)
  (package-refresh-contents . 2)
  (package-install . 1)
- (ispell . 4)
+ (ispell . 6)
  (flyspell-word . 1)
  (shell . 1)
  (save-buffer . 1)
