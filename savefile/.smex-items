@@ -1,23 +1,27 @@
 
 ;; ----- smex-history -----
 (
- ispell
+ package-menu-mark-obsolete-for-deletion
  package-list-packages
- save-buffer
+ prelude-update
  shell
+ ispell
+ flyspell-correct-word
  flyspell-word
- package-install
- package-refresh-contents
 )
 
 ;; ----- smex-data -----
 (
- (prelude-update . 1)
- (package-list-packages . 13)
+ (prelude-update . 5)
+ (package-list-packages . 20)
  (package-refresh-contents . 2)
  (package-install . 1)
- (ispell . 6)
- (flyspell-word . 1)
- (shell . 1)
+ (ispell . 9)
+ (flyspell-word . 3)
+ (shell . 3)
  (save-buffer . 1)
+ (count-words . 1)
+ (Info-split . 1)
+ (flyspell-correct-word . 1)
+ (package-menu-mark-obsolete-for-deletion . 1)
 )
