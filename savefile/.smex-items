@@ -1,19 +1,19 @@
 
 ;; ----- smex-history -----
 (
- package-menu-mark-obsolete-for-deletion
- package-list-packages
  prelude-update
+ package-list-packages
+ company-mode
+ package-menu-mark-obsolete-for-deletion
  shell
  ispell
  flyspell-correct-word
- flyspell-word
 )
 
 ;; ----- smex-data -----
 (
- (prelude-update . 5)
- (package-list-packages . 20)
+ (prelude-update . 7)
+ (package-list-packages . 26)
  (package-refresh-contents . 2)
  (package-install . 1)
  (ispell . 9)
@@ -24,4 +24,5 @@
  (Info-split . 1)
  (flyspell-correct-word . 1)
  (package-menu-mark-obsolete-for-deletion . 1)
+ (company-mode . 2)
 )

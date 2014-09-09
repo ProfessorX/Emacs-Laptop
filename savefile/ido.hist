@@ -2,6 +2,7 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/home/abrahamx91/Profession/Git/CIS618/" . "Lecture-Notes/")
  ("/home/abrahamx91/Profession/Git/octopress/source/downloads/" . "code/")
  ("/home/abrahamx91/Profession/Git/CIS502/" . "Presentation/")
  ("/home/abrahamx91/Profession/Git/CIS603/" . "Lecture-Notes/")
@@ -13,17 +14,18 @@
  ("/" . "etc/")
  ("/home/abrahamx91/Office/" . "20140824/")
  ("/home/abrahamx91/Profession/Git/CIS612/" . "Final-Exam/")
- ("/home/abrahamx91/Profession/Git/octopress/source/" . "downloads/")
+ ("/home/abrahamx91/Profession/Git/octopress/source/" . "_posts/")
  ("/home/abrahamx91/Profession/Git/octopress/" . "source/")
- ("/home/abrahamx91/Profession/Git/" . "Org-Mode/")
+ ("/home/abrahamx91/Profession/Git/" . "octopress/")
  ("/home/abrahamx91/.emacs.d/" . "personal/")
  ("/home/abrahamx91/" . "Profession/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
- "/home/abrahamx91/Profession/Git/Org-Mode/2014/"
  "/home/abrahamx91/Profession/Git/octopress/source/_posts/"
+ "/home/abrahamx91/Profession/Git/CIS618/Lecture-Notes/"
+ "/home/abrahamx91/Profession/Git/Org-Mode/2014/"
  "/home/abrahamx91/Profession/Git/CIS603/Lecture-Notes/"
  "/home/abrahamx91/Profession/Git/octopress/"
  "/home/abrahamx91/Profession/Git/CIS502/Presentation/"
@@ -41,9 +43,9 @@
 
 ;; ----- ido-work-file-list -----
 (
+ "2014-08-31-never-say-never.markdown"
  "Sep.org"
  "2014-04-21-lab4.markdown"
- "2014-08-31-never-say-never.markdown"
  "Gemfile.lock"
  "Gemfile"
  "_config.yml"
@@ -55,9 +57,15 @@
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/abrahamx91/Profession/Git/Org-Mode/2014/" (21514 55758 854622 108000) "Mar.org" "Sep.org" "Jan.ics" "../" "Jan.org" "Feb.org" "Jan.org_archive" "Mar.html" "Sep.html" "./" "Feb.html")
+ ("/home/abrahamx91/Profession/Git/octopress/source/_posts/" (21516 19775 704045 257000) "2014-04-14-chinese-test.markdown" "2014-04-20-weekly-update.markdown" "2014-05-12-right-things.markdown" "../" "2014-04-14-no-title.markdown" "2014-05-13-constant-review.markdown" "2014-05-15-learn-to-change-the-world.markdown" "2014-04-22-online-storage.markdown" "./" "2014-05-10-end-of-semester.markdown" "2014-04-21-lab4.markdown" "2014-04-14-code-snippet-test.markdown" "2014-09-05-journey-to-the-west.markdown" "2014-08-31-never-say-never.markdown")
 
- ("/home/abrahamx91/Profession/Git/octopress/source/_posts/" (21516 17073 816071 878000) "2014-04-14-chinese-test.markdown" "2014-04-20-weekly-update.markdown" "2014-05-12-right-things.markdown" "../" "2014-04-14-no-title.markdown" "2014-05-13-constant-review.markdown" "2014-05-15-learn-to-change-the-world.markdown" "2014-04-22-online-storage.markdown" "./" "2014-05-10-end-of-semester.markdown" "2014-04-21-lab4.markdown" "2014-04-14-code-snippet-test.markdown" "2014-09-05-journey-to-the-west.markdown" "2014-08-31-never-say-never.markdown")
+ ("/home/abrahamx91/Profession/Git/" (21516 52868 380008 216000) "goagent/" "KisspberryPi/" "Emacs-Laptop/" "../" "Python-Algorithms/" "CIS603/" "octopress/" "Gemfile" "Java-Essential-Training/" "./" "CIS508/" "CIS502/" "CIS618/" "CIS612/" "MATLAB-Tutorials/" "Org-Mode/" "Electronic-Books/")
+
+ ("/home/abrahamx91/Profession/Git/CIS618/Lecture-Notes/" (21517 30325 908013 690000) "../" "./")
+
+ ("/home/abrahamx91/Profession/Git/CIS618/" (21517 30325 908013 690000) "Presentation/" "Project/" "../" "Lecture-Notes/" ".git/" "./" "Labs/" "Reference/" "LICENSE")
+
+ ("/home/abrahamx91/Profession/Git/Org-Mode/2014/" (21514 55758 854622 108000) "Mar.org" "Sep.org" "Jan.ics" "../" "Jan.org" "Feb.org" "Jan.org_archive" "Mar.html" "Sep.html" "./" "Feb.html")
 
  ("/home/abrahamx91/Profession/Git/octopress/source/downloads/code/" (21498 26364 506205 468000) "data_server.sh" "plot.m" "../" "index.sh" "./" "gendata.sh")
 
@@ -68,8 +76,6 @@
  ("/home/abrahamx91/Profession/Git/octopress/" (21516 11859 236163 229000) "_deploy/" "config.ru" "Rakefile" ".themes/" ".gitattributes" "../" "sass/" "sass.old/" "source.old/" ".pygments-cache/" "public/" ".powrc" "plugins/" "Gemfile" "Gemfile.lock" ".git/" "./" ".travis.yml" "CHANGELOG.markdown" "_config.yml" "config.rb" ".gitignore" "source/" ".editorconfig" "README.md" ".slugignore" "README.markdown" ".sass-cache/")
 
  ("/home/abrahamx91/Profession/Git/CIS603/Lecture-Notes/" (21516 12820 596047 882000) "Sep.org" "../" "Sep.html" "./")
-
- ("/home/abrahamx91/Profession/Git/" (21516 11123 352119 218000) "goagent/" "KisspberryPi/" "Emacs-Laptop/" "../" "Python-Algorithms/" "CIS603/" "octopress/" "Gemfile" "Java-Essential-Training/" "./" "CIS508/" "CIS502/" "CIS612/" "MATLAB-Tutorials/" "Org-Mode/" "Electronic-Books/")
 
  ("/home/abrahamx91/Profession/Git/CIS502/Presentation/" (21515 31994 523435 918000) "Alonzo_Church.jpg" "Presentation.toc" "Description.pdf" "Figure/" "Description.log" "../" "FunctionalPro.out" "Presentation.dvi" "FunctionalPro.vrb" "Description.tex" "Presentation.synctex.gz" "FunctionalPro.synctex.gz" "Description.synctex.gz" "FunctionalPro.tex" "FunctionalPro.dvi" "Presentation.out" "Requirement.pdf" "auto/" "FunctionalPro.aux" "FunctionalPro.nav" "FunctionalPro.log" "iMac-500.jpg" "./" "Presentation.blg" "FunctionalPro.snm" "Reference.bib" "Presentation.snm" "Presentation.bbl" "Presentation.aux" "Presentation.log" "prv_FunctionalPro.pdf" "FunctionalPro.toc" "Presentation.pdf" "FunctionalPro.pdf" "Presentation.nav" "Description.aux" "Presentation.tex")
 
