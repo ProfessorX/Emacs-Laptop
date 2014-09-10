@@ -16,16 +16,16 @@
  ("/home/abrahamx91/Profession/Git/CIS612/" . "Final-Exam/")
  ("/home/abrahamx91/Profession/Git/octopress/source/" . "_posts/")
  ("/home/abrahamx91/Profession/Git/octopress/" . "source/")
- ("/home/abrahamx91/Profession/Git/" . "octopress/")
+ ("/home/abrahamx91/Profession/Git/" . "Org-Mode/")
  ("/home/abrahamx91/.emacs.d/" . "personal/")
  ("/home/abrahamx91/" . "Profession/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
+ "/home/abrahamx91/Profession/Git/Org-Mode/2014/"
  "/home/abrahamx91/Profession/Git/octopress/source/_posts/"
  "/home/abrahamx91/Profession/Git/CIS618/Lecture-Notes/"
- "/home/abrahamx91/Profession/Git/Org-Mode/2014/"
  "/home/abrahamx91/Profession/Git/CIS603/Lecture-Notes/"
  "/home/abrahamx91/Profession/Git/octopress/"
  "/home/abrahamx91/Profession/Git/CIS502/Presentation/"
@@ -43,8 +43,9 @@
 
 ;; ----- ido-work-file-list -----
 (
- "2014-08-31-never-say-never.markdown"
  "Sep.org"
+ "Sep.tex"
+ "2014-08-31-never-say-never.markdown"
  "2014-04-21-lab4.markdown"
  "Gemfile.lock"
  "Gemfile"
@@ -52,11 +53,16 @@
  "FunctionalPro.tex"
  "Presentation.tex"
  "Mar.org"
- "2014-05-15-learn-to-change-the-world.markdown"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/home/abrahamx91/Profession/Git/Org-Mode/2014/" (21520 43656 918284 964000) "Mar.org" "Sep.org" "Jan.ics" "Record.tex" "../" "Jan.org" "Feb.org" "Jan.org_archive" "Sep.tex" "Record.synctex.gz" "auto/" "Mar.html" "Record.pdf" "Sep.html" "./" "Feb.html" "Sep.pdf" "Record.aux" "Record.log")
+
+ ("/home/abrahamx91/" (21520 35860 153818 657000) ".aspell.en.pws" "Application/" "Profession/" ".android/" ".azureus/" ".dbus/" ".bash_logout" ".aria2/" "matlab_crash_dump.27604-1" "workspace/" ".java/" ".local/" ".profile" ".gnupg/" ".PyCharm30/" ".IntelliJIdea13/" ".rbenv/" "../" "vmware/" ".thumbnails/" "Calibre Library/" ".ssh/" ".icedove/" ".bashrc" ".recently-used" ".kde/" ".steampid" ".selected_editor" ".gnome2_private/" ".macromedia/" ".steampath" ".texmf-var/" ".aspell.en.prepl" ".ipython/" ".adobe/" ".matlab/" ".gimp-2.8/" ".subversion/" "Dev-MasdarWireless/" ".gem/" ".AndroidStudioBeta/" ".steam/" ".gstreamer-0.10/" ".dmrc" ".cups/" "PycharmProjects/" "Development/" ".gnome/" ".pulse/" "./" ".gitconfig" ".gradle/" ".pulse-cookie" ".swt/" ".gphoto/" ".pki/" ".gksu.lock" "Pictures/" ".python-eggs/" ".config/" ".erc/" ".vmware/" ".gconf/" ".face.icon" ".directory" ".mozilla/" ".Xauthority" ".bash_history" "System-Backup/" ".eclipse/" ".emacs.d/" ".bash_aliases" "Downloads/" "Vuze Downloads/" ".gnome2/" ".xsession-errors" "Office/" ".cache/" "Desktop/" ".Skype/")
+
+ ("/home/abrahamx91/Downloads/" (21520 1395 134715 973000) "Torrents/" "284305393.mp4" "google-chrome-stable_current_amd64.deb" "android-studio/" "adt-bundle-linux-x86_64-20140702.zip" "clonezilla-live-2.2.3-25-amd64.zip" "install_flash_player_11_linux.x86_64.tar.gz" "license_standalone.dat" "UQi_WIN7SP1_X86_X64_Lite.rar" "../" "utorrent-server-alpha-v3_3/" "YLMF_GhostXP_SP3_YN2014_04.iso" "R2012b_UNIX.iso" "skype-debian_4.3.0.37-1_i386.deb" "ReadMe.txt" "steam_latest.deb" "android-sdk_r23.0.2-linux.tgz" "usr/" "sogou_pinyin_linux_1.1.0.0037_amd64.deb" "android-sdk-linux/" "libflashplayer.so" "VMware-Player-6.0.3-1895310.x86_64.bundle" "pycharm-professional-3.4.1.tar" "vuze/" "idea-IU-135.1230/" "[Scott_Chacon]_Pro_Git(BookFi.org).pdf" "Fontin-Bold.ttf" "./" "get-pip.py" "fontin2_pc.zip" "android-studio-bundle-135.1339820-linux.tgz" "utserver.tar.gz" "eclipse-standard-luna-R-linux-gtk-x86_64.tar.gz" ".directory" "Fontin-Italic.ttf" "Fontin-Regular.ttf" "readme.txt" "VuzeInstaller.tar.bz2" "Fontin-SmallCaps.ttf" "ideaIU-13.1.4b.tar.gz")
+
  ("/home/abrahamx91/Profession/Git/octopress/source/_posts/" (21516 19775 704045 257000) "2014-04-14-chinese-test.markdown" "2014-04-20-weekly-update.markdown" "2014-05-12-right-things.markdown" "../" "2014-04-14-no-title.markdown" "2014-05-13-constant-review.markdown" "2014-05-15-learn-to-change-the-world.markdown" "2014-04-22-online-storage.markdown" "./" "2014-05-10-end-of-semester.markdown" "2014-04-21-lab4.markdown" "2014-04-14-code-snippet-test.markdown" "2014-09-05-journey-to-the-west.markdown" "2014-08-31-never-say-never.markdown")
 
  ("/home/abrahamx91/Profession/Git/" (21516 52868 380008 216000) "goagent/" "KisspberryPi/" "Emacs-Laptop/" "../" "Python-Algorithms/" "CIS603/" "octopress/" "Gemfile" "Java-Essential-Training/" "./" "CIS508/" "CIS502/" "CIS618/" "CIS612/" "MATLAB-Tutorials/" "Org-Mode/" "Electronic-Books/")
@@ -64,8 +70,6 @@
  ("/home/abrahamx91/Profession/Git/CIS618/Lecture-Notes/" (21517 30325 908013 690000) "../" "./")
 
  ("/home/abrahamx91/Profession/Git/CIS618/" (21517 30325 908013 690000) "Presentation/" "Project/" "../" "Lecture-Notes/" ".git/" "./" "Labs/" "Reference/" "LICENSE")
-
- ("/home/abrahamx91/Profession/Git/Org-Mode/2014/" (21514 55758 854622 108000) "Mar.org" "Sep.org" "Jan.ics" "../" "Jan.org" "Feb.org" "Jan.org_archive" "Mar.html" "Sep.html" "./" "Feb.html")
 
  ("/home/abrahamx91/Profession/Git/octopress/source/downloads/code/" (21498 26364 506205 468000) "data_server.sh" "plot.m" "../" "index.sh" "./" "gendata.sh")
 
@@ -84,8 +88,6 @@
  ("/home/abrahamx91/Profession/Git/Emacs-Laptop/" (21512 63820 152102 44000) "ac-comphist.dat" "themes/" "session.10c5d36269000140897041000000021260025" "abbrev_defs" "prelude-modules.el" "personal/" "../" "session.10c5d36269000140891453300000015300025" "core/" "session.10c5d36269000140891056800000015950073" "vendor/" "utils/" "modules/" "prelude-modules.elc" "session.10c5d36269000140948006700000022100036" "session.10c5d36269000140952185700000021690052" "session.10c5d36269000140973616100000022410026" "session.10c5d36269000140965694100000022410027" ".git/" "auto-save-list/" "elpa/" "session.10c5d36269000140955439100000022460029" "./" "session.10c5d36269000140956795800000022470034" "sample/" "session.10c5d36269000140900279300000022290048" "session.10c5d36269000140943652400000022180049" "init.el" "projectile-bookmarks.eld" "session.10c5d36269000140892866900000015300064" "var/" "session.10c5d36269000140973454800000022380027" "CONTRIBUTING.md" "README.md" "session.10c5d36269000140964147100000021240031" "LICENSE" "session.10c5d36269000140956674600000021170029" "init.elc" "savefile/" "session.10c5d36269000140897434600000021980031")
 
  ("/home/abrahamx91/Profession/Git/Electronic-Books/Life/" (21510 62851 988011 662000) "cv_9.out" "../" "cv_9.aux" "Yanan-Xiao_CV.pdf" "Yanan-Xiao_CV" "auto/" "cv_9.pdf" "./" "cv_9.synctex.gz" "Yanan-Xiao_CV._1.pdf" ".~lock.Yanan-Xiao_CV#" "cv_9.log" "cv_9.tex" "CV/")
-
- ("/home/abrahamx91/" (21510 56566 790964 822000) ".aspell.en.pws" "Application/" "Profession/" ".android/" ".dbus/" ".bash_logout" ".aria2/" "matlab_crash_dump.27604-1" "workspace/" ".java/" ".local/" ".profile" ".gnupg/" ".PyCharm30/" ".rbenv/" "../" ".thumbnails/" "Calibre Library/" ".ssh/" ".icedove/" ".bashrc" ".recently-used" ".kde/" ".steampid" ".selected_editor" ".gnome2_private/" ".macromedia/" ".steampath" ".texmf-var/" ".aspell.en.prepl" ".ipython/" ".adobe/" ".matlab/" ".gimp-2.8/" ".subversion/" "Dev-MasdarWireless/" ".gem/" ".steam/" ".gstreamer-0.10/" ".dmrc" ".cups/" "PycharmProjects/" "Development/" ".gnome/" ".pulse/" "./" ".gitconfig" ".pulse-cookie" ".swt/" ".pki/" ".gksu.lock" "Pictures/" ".python-eggs/" ".config/" ".erc/" ".vmware/" ".gconf/" ".face.icon" ".directory" ".mozilla/" ".Xauthority" ".bash_history" "System-Backup/" ".eclipse/" ".emacs.d/" ".bash_aliases" "Downloads/" ".gnome2/" ".xsession-errors" "Office/" ".cache/" "Desktop/")
 
  ("/home/abrahamx91/Profession/Git/Electronic-Books/Life/CV/" (21508 18478 238847 82000) "cv_4.zip" "../" "cv_4.log" "cv_4.tex" "./" "cv_4.pdf" "cv_4.aux" "cv_4.synctex.gz" "cv_4.dvi" "resume.cls")
 
@@ -124,8 +126,6 @@
  ("/home/abrahamx91/Profession/Git/CIS612/" (21498 18627 796464 455000) "Homework/" "REfer-1.txt" "IEEEexample.bib" "InfoSecReport.blg" "IEEEabrv.bib" "Reference-Old.bib" "Figure/" "TODO.md" "InfoSecReport.tex" ".gitattributes" "RSA.txt" "Presentation/" "InfoSecReport.pdf" "../" "Lecture-Notes/" "Codes/" "ElGamal.doc" "IEEEtran_bst_HOWTO.pdf" "InfoSecReport.dvi" ".~lock.ElGamal.doc#" "My Reference in Bib (final).docx" "Report-Temp.blg" "Report-Temp.bbl" "IEEEtranBST1.tar.gz" "Report-Temp.aux" "IEEEtranS.bst" "Groups_and_Topics.docx" "Report-Temp.out" "test.m" "InfoSecReport.synctex.gz" "Report-Temp.tex" "Ref/" "auto/" "Report-Temp.pdf" ".git/" "InfoSecReport.tex.sav" "test.cpp" "IEEE-Template/" "InfoSecReport.out" "./" "RSA.cpp" "InfoSecReport.rel" "Reference.bib" "InfoSecReport.log" "222.mp4" "Information Security Project Part RSA(final draft).docx" ".gitignore" "InfoSecReport-Old.tex" "Final-Exam/" "README" "REfer.txt" "IEEEtran.cls" "README.md" "IEEE.java" "prv_InfoSecReport.fmt" "333.mp4" "InfoSecReport.aux" "InfoSecReport.bbl" "111.mp4" "Report-Temp.synctex.gz" "IEEEfull.bib" "IEEEtran.bst")
 
  ("/home/abrahamx91/Profession/Git/CIS612/Figure/" (21498 18372 828449 206000) "Asymmetric.png" "../" "Symmetric.png" "./")
-
- ("/home/abrahamx91/Downloads/" (21498 11804 384056 362000) "adt-bundle-linux-x86_64-20140702.zip" "../" "sogou_pinyin_linux_1.1.0.0037_amd64.deb" "VMware-Player-6.0.3-1895310.x86_64.bundle" "pycharm-professional-3.4.1.tar" "./" "get-pip.py" ".directory")
 )
 
 ;; ----- ido-unc-hosts-cache -----
