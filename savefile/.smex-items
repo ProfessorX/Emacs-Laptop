@@ -1,28 +1,30 @@
 
 ;; ----- smex-history -----
 (
- save-buffer
  package-list-packages
+ revert-buffer
  prelude-update
+ shell
+ git-status
  ispell
  company-mode
- package-menu-mark-obsolete-for-deletion
- shell
 )
 
 ;; ----- smex-data -----
 (
- (prelude-update . 7)
- (package-list-packages . 26)
+ (prelude-update . 9)
+ (package-list-packages . 29)
  (package-refresh-contents . 2)
  (package-install . 1)
  (ispell . 10)
  (flyspell-word . 3)
- (shell . 3)
- (save-buffer . 2)
+ (shell . 4)
+ (save-buffer . 1)
  (count-words . 1)
  (Info-split . 1)
  (flyspell-correct-word . 1)
  (package-menu-mark-obsolete-for-deletion . 1)
  (company-mode . 2)
+ (git-status . 1)
+ (revert-buffer . 1)
 )
